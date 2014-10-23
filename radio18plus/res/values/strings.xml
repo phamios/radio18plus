@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Online</string>
+    <string name="help1">Để nghe radio bạn vui lòng thực hiện các bước sau:</string>
+    <string name="help2">Bước 1: Touch vào chuyên mục  radio bạn muốn nghe.</string>
+    <string name="help3">Bước 2: lựa chọn radio bạn muốn nghe </string>
+    <string name="help4">Để thêm một radio vào playlist bạn chỉ cần touch chọn radio muốn thêm vào playlist. Nếu radio đó đã được thanh toán nó sẽ tự động thêm vào, ngược lại thì ứng dụng sẽ hỏi bạn có muốn trả phí cho radio không.\n\nMọi thắc mắc xin gửi email về địa chỉ: thphuoc@hotmail.com. \n\nXin chân thành cảm ơn!</string>
+    <string name="help5_title">Tư vấn trực tuyến.</string>
+    <string name="help5">Bạn muốn được gặp chuyên gia tư vấn trực tuyến cho các vấn đề về tình yêu, sức khỏe và giới tính. Vui lòng gọi điện trực đến tổng đài 1080 trong thời gian 9h-11h và 14h-17h từ thứ 2- thứ 6 hàng tuần.</string>
+    <string name="text_intro1">Để nghe radio bạn vui lòng</string>
+    <string name="text_intro2">Dù bạn vui hay bạn buồn, hãy đến chia sẻ cùng Radio Online</string>
+    <string name="text_intro3">radio18+ - Sản phẩm của công ty cổ phần Admega . \n Hà Nội</string>
+	<string name="dialog_text_license_confirm">Liên hệ mua ứng dụng : 0121 456 4444 </string>
+	<string name="app_title">Music Online</string>
+	<string name="txt_category_top">Danh sách thể loại</string>
+	<string name="txt_listening_menu">Đang nghe</string>
+	<string name="txt_downloaded">Kho nhạc riêng</string>
+	
+	<string name="url_main">http://admega.vn/api/</string>
+	<string name="url_category"></string>
+	<string name="url_details"></string>
+</resources>
